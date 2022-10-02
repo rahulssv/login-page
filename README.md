@@ -1,6 +1,5 @@
 # login-page
-💻 A responsive login page
-Login-page template using HTML, and CSS.
+💻 A responsive Login-page template using HTML, CSS and Javascript.
 
 And below, I am providing the screenshot of this login-page interface.
 
